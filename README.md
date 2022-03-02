@@ -1,2 +1,3 @@
 # Weatherfocast-database
-Database storage for weather data
+Database storage for weather data which build from LoPy
+
